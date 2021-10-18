@@ -35,9 +35,13 @@ namespace basic_concepts
             StringFormatting sf = new StringFormatting();
             sf.StringFormattingTypes();
 
-            Console.WriteLine((("----- Collections Types ------").ToUpper()));
+            Console.WriteLine((("----- Collections ------").ToUpper()));
             Collections c = new Collections();
             c.CollectionsTypes();
+
+            Console.WriteLine((("----- Dictionary ------").ToUpper()));
+            Dictionarys d = new Dictionarys();
+            d.DictionaryTypes();
         }
     }
 }
