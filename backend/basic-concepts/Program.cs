@@ -30,6 +30,14 @@ namespace basic_concepts
             Console.WriteLine((("----- Dates ------").ToUpper()));
             Dates dt = new Dates();
             dt.DatesTypes();
+
+            Console.WriteLine((("----- String Formatting ------").ToUpper()));
+            StringFormatting sf = new StringFormatting();
+            sf.StringFormattingTypes();
+
+            Console.WriteLine((("----- Collections Types ------").ToUpper()));
+            Collections c = new Collections();
+            c.CollectionsTypes();
         }
     }
 }
