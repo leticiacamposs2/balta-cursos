@@ -1,0 +1,13 @@
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.csprojAssemblyReference.cache
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.AssemblyInfoInputs.cache
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.AssemblyInfo.cs
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.csproj.CoreCompileInputs.cache
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\bin\Debug\netcoreapp3.1\basic-concepts.exe
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\bin\Debug\netcoreapp3.1\basic-concepts.deps.json
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\bin\Debug\netcoreapp3.1\basic-concepts.runtimeconfig.json
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\bin\Debug\netcoreapp3.1\basic-concepts.runtimeconfig.dev.json
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\bin\Debug\netcoreapp3.1\basic-concepts.dll
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\bin\Debug\netcoreapp3.1\basic-concepts.pdb
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.dll
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.pdb
+C:\programacao\cursos\backend-dotnet\balta-cursos\backend\basic-concepts\obj\Debug\netcoreapp3.1\basic-concepts.genruntimeconfig.cache
